@@ -2,7 +2,7 @@
 
 Speculative redesign of the Aura Ads case study template, built on the live Tonies® story.
 
-**[View the mockup →](https://eldardiz.github.io/aura-ads-case-study/tonies.html)** (enable Pages, or open `tonies.html` locally)
+**[View the mockup →](https://aura-ads-case-study.vercel.app)** (or open `index.html` locally)
 
 Before: https://auraads.co/case-studies/tonies
 
